@@ -9,7 +9,7 @@ To get started with this app, first clone this repository to your local machine:
 
 
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/bcalagoz/todoapp.git
 
 ```
 
